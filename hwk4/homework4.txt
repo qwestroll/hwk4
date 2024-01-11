@@ -1,0 +1,5 @@
+Step 1
+git config --global user.name "Muhammed"
+git config --global user.email "21soft1024@isik.edu.tr"
+git config --global favorite.editor "Muhammed"
+  
