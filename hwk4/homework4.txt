@@ -3,3 +3,9 @@ git config --global user.name "Muhammed"
 git config --global user.email "21soft1024@isik.edu.tr"
 git config --global favorite.editor "Muhammed"
   
+Step 2
+ ls -a testspace/.git
+./   HEAD    description  index  logs/     packed-refs
+../  config  hooks/       info/  objects/  refs/
+
+Step 3
